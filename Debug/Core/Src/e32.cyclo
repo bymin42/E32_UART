@@ -1,0 +1,7 @@
+../Core/Src/e32.c:13:13:setPins	1
+../Core/Src/e32.c:19:6:E32_Init	1
+../Core/Src/e32.c:24:6:E32_SetMode	5
+../Core/Src/e32.c:36:9:E32_AuxHigh	1
+../Core/Src/e32.c:41:6:E32_WaitAux	3
+../Core/Src/e32.c:49:19:E32_SendBytes	1
+../Core/Src/e32.c:57:19:E32_ReceiveBytes	1
